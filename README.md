@@ -10,4 +10,5 @@ After the implementation of the algorithm, a comparison is made in the following
  1) Ease of Algorithm Implementation ( Factorization ).
  2) Time Complexity
  3) Memory Consumption
+ 
 Later on, the ACAFP algorithm is extended to other number of prime numbers i.e. 6 and 2, and tested with speed. 
